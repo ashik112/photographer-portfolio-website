@@ -1,0 +1,716 @@
+[16-Apr-2016 14:57:46 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/mylinkg/public_html/my_link_admin/add_shop.php on line 240
+[16-Apr-2016 14:57:50 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/mylinkg/public_html/my_link_admin/add_shop.php on line 240
+[09-Mar-2017 00:01:16 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 83
+[09-Mar-2017 00:01:16 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 83
+[09-Mar-2017 00:01:16 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 97
+[09-Mar-2017 00:01:16 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 97
+[09-Mar-2017 00:01:16 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 108
+[09-Mar-2017 00:01:16 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 108
+[09-Mar-2017 00:01:16 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 122
+[09-Mar-2017 00:01:16 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 122
+[09-Mar-2017 00:01:16 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 152
+[09-Mar-2017 00:01:16 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 159
+[09-Mar-2017 00:01:16 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 166
+[09-Mar-2017 00:01:16 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 180
+[11-Mar-2017 09:49:50 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 83
+[11-Mar-2017 09:49:50 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 83
+[11-Mar-2017 09:49:50 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 97
+[11-Mar-2017 09:49:50 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 97
+[11-Mar-2017 09:49:50 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 108
+[11-Mar-2017 09:49:50 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 108
+[11-Mar-2017 09:49:50 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 122
+[11-Mar-2017 09:49:50 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 122
+[11-Mar-2017 09:49:50 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 152
+[11-Mar-2017 09:49:50 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 159
+[11-Mar-2017 09:49:50 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 166
+[11-Mar-2017 09:49:50 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 180
+[11-Mar-2017 09:50:43 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 83
+[11-Mar-2017 09:50:43 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 83
+[11-Mar-2017 09:50:43 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 97
+[11-Mar-2017 09:50:43 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 97
+[11-Mar-2017 09:50:43 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 108
+[11-Mar-2017 09:50:43 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 108
+[11-Mar-2017 09:50:43 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 122
+[11-Mar-2017 09:50:43 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 122
+[11-Mar-2017 09:50:43 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 152
+[11-Mar-2017 09:50:43 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 159
+[11-Mar-2017 09:50:43 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 166
+[11-Mar-2017 09:50:43 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 180
+[11-Mar-2017 09:50:46 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 83
+[11-Mar-2017 09:50:46 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 83
+[11-Mar-2017 09:50:46 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 97
+[11-Mar-2017 09:50:46 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 97
+[11-Mar-2017 09:50:46 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 108
+[11-Mar-2017 09:50:46 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 108
+[11-Mar-2017 09:50:46 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 122
+[11-Mar-2017 09:50:46 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 122
+[11-Mar-2017 09:50:46 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 152
+[11-Mar-2017 09:50:46 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 159
+[11-Mar-2017 09:50:46 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 166
+[11-Mar-2017 09:50:46 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 180
+[11-Mar-2017 09:56:01 Asia/Dhaka] PHP Notice:  Undefined variable: image_id in /home/towfiqchowdhury/public_html/admin/updata_img.php on line 48
+[11-Mar-2017 09:56:31 Asia/Dhaka] PHP Notice:  Undefined variable: image_id in /home/towfiqchowdhury/public_html/admin/updata_img.php on line 48
+[11-Mar-2017 10:15:22 Asia/Dhaka] PHP Notice:  Undefined variable: image_id in /home/towfiqchowdhury/public_html/admin/updata_img.php on line 48
+[11-Mar-2017 10:15:36 Asia/Dhaka] PHP Notice:  Undefined variable: image_id in /home/towfiqchowdhury/public_html/admin/updata_img.php on line 48
+[13-Mar-2017 01:10:11 Asia/Dhaka] PHP Notice:  Undefined variable: image_id in /home/towfiqchowdhury/public_html/admin/updata_img.php on line 48
+[13-Mar-2017 01:10:18 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 83
+[13-Mar-2017 01:10:18 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 83
+[13-Mar-2017 01:10:18 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 97
+[13-Mar-2017 01:10:18 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 97
+[13-Mar-2017 01:10:18 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 108
+[13-Mar-2017 01:10:18 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 108
+[13-Mar-2017 01:10:18 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 122
+[13-Mar-2017 01:10:18 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 122
+[13-Mar-2017 01:10:18 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 152
+[13-Mar-2017 01:10:18 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 159
+[13-Mar-2017 01:10:18 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 166
+[13-Mar-2017 01:10:18 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 180
+[13-Mar-2017 01:10:53 Asia/Dhaka] PHP Notice:  Undefined variable: image_id in /home/towfiqchowdhury/public_html/admin/updata_img.php on line 48
+[13-Mar-2017 01:11:46 Asia/Dhaka] PHP Notice:  Undefined variable: image_id in /home/towfiqchowdhury/public_html/admin/updata_img.php on line 48
+[13-Mar-2017 01:12:20 Asia/Dhaka] PHP Notice:  Undefined variable: image_id in /home/towfiqchowdhury/public_html/admin/updata_img.php on line 48
+[13-Mar-2017 01:12:34 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 83
+[13-Mar-2017 01:12:34 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 83
+[13-Mar-2017 01:12:34 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 97
+[13-Mar-2017 01:12:34 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 97
+[13-Mar-2017 01:12:34 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 108
+[13-Mar-2017 01:12:34 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 108
+[13-Mar-2017 01:12:34 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 122
+[13-Mar-2017 01:12:34 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 122
+[13-Mar-2017 01:12:34 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 152
+[13-Mar-2017 01:12:34 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 159
+[13-Mar-2017 01:12:34 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 166
+[13-Mar-2017 01:12:34 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/admin/updateShop.php on line 180
+[13-Mar-2017 01:14:13 Asia/Dhaka] PHP Notice:  Undefined variable: image_id in /home/towfiqchowdhury/public_html/admin/updata_img.php on line 48
+[13-Mar-2017 14:04:32 Asia/Dhaka] PHP Notice:  Undefined variable: image_id in /home/towfiqchowdhury/public_html/admin/updata_img.php on line 48
+[13-Mar-2017 14:06:01 Asia/Dhaka] PHP Notice:  Undefined variable: image_id in /home/towfiqchowdhury/public_html/admin/updata_img.php on line 48
+[13-Mar-2017 14:51:53 Asia/Dhaka] PHP Notice:  Undefined variable: image_id in /home/towfiqchowdhury/public_html/admin/updata_img.php on line 48
+[13-Mar-2017 14:52:14 Asia/Dhaka] PHP Notice:  Undefined variable: image_id in /home/towfiqchowdhury/public_html/admin/updata_img.php on line 48
+[13-Mar-2017 15:51:48 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/towfiqchowdhury/public_html/manager/controller/operation.inc.php on line 27
+[13-Mar-2017 15:51:48 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/towfiqchowdhury/public_html/manager/add_product.php on line 227
+[13-Mar-2017 15:51:50 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/towfiqchowdhury/public_html/manager/add_shop.php on line 237
+[13-Mar-2017 15:52:39 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/towfiqchowdhury/public_html/manager/add_shop.php on line 237
+[13-Mar-2017 15:55:27 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/towfiqchowdhury/public_html/manager/add_product.php on line 227
+[13-Mar-2017 17:35:12 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 17:35:12 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 17:35:12 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 17:35:12 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 17:35:12 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 17:35:12 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 17:35:12 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 17:35:12 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 17:35:12 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 17:35:12 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 17:35:12 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 17:35:12 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 17:38:23 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 17:38:23 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 17:38:23 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 17:38:23 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 17:38:23 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 17:38:23 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 17:38:23 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 17:38:23 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 17:38:23 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 17:38:23 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 17:38:23 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 17:38:23 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 17:38:32 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 17:38:32 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 17:38:32 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 17:38:32 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 17:38:32 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 17:38:32 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 17:38:32 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 17:38:32 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 17:38:32 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 17:38:32 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 17:38:32 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 17:38:32 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 17:38:41 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 17:38:41 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 17:38:41 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 17:38:41 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 17:38:41 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 17:38:41 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 17:38:41 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 17:38:41 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 17:38:41 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 17:38:41 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 17:38:41 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 17:38:41 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 18:04:39 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:04:39 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:04:39 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:04:39 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:04:39 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:04:39 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:04:39 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:04:39 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:04:39 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 18:04:39 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 18:04:39 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 18:04:39 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 18:06:26 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:06:26 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:06:26 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:06:26 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:06:26 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:06:26 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:06:26 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:06:26 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:06:26 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 18:06:26 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 18:06:26 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 18:06:26 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 18:06:32 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:06:32 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:06:32 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:06:32 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:06:32 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:06:32 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:06:32 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:06:32 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:06:32 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 18:06:32 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 18:06:32 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 18:06:32 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 18:06:48 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:06:48 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:06:48 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:06:48 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:06:48 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:06:48 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:06:48 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:06:48 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:06:48 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 18:06:48 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 18:06:48 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 18:06:48 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 18:08:54 Asia/Dhaka] PHP Notice:  Undefined index: shopkeeper_id in /home/towfiqchowdhury/public_html/manager/add_product.php on line 75
+[13-Mar-2017 18:08:54 Asia/Dhaka] PHP Notice:  Undefined index: image_description in /home/towfiqchowdhury/public_html/manager/add_product.php on line 76
+[13-Mar-2017 18:08:54 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 78
+[13-Mar-2017 18:08:54 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 79
+[13-Mar-2017 18:08:54 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 80
+[13-Mar-2017 18:08:54 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 81
+[13-Mar-2017 18:10:21 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:10:21 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:10:21 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:10:21 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:10:21 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:10:21 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:10:21 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:10:21 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:10:21 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 18:10:21 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 18:10:21 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 18:10:21 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 18:12:21 Asia/Dhaka] PHP Notice:  Undefined index: shopkeeper_id in /home/towfiqchowdhury/public_html/manager/add_product.php on line 75
+[13-Mar-2017 18:12:21 Asia/Dhaka] PHP Notice:  Undefined index: image_description in /home/towfiqchowdhury/public_html/manager/add_product.php on line 76
+[13-Mar-2017 18:12:21 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 78
+[13-Mar-2017 18:12:21 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 79
+[13-Mar-2017 18:12:21 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 80
+[13-Mar-2017 18:12:21 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 81
+[13-Mar-2017 18:26:51 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:26:51 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:26:51 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:26:51 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:26:51 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:26:51 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:26:51 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:26:51 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:26:51 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 18:26:51 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 18:26:51 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 18:26:51 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 18:28:46 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:28:46 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:28:46 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:28:46 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:28:46 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:28:46 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:28:46 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:28:46 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:28:46 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 18:28:46 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 18:28:46 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 18:28:46 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 18:34:16 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:34:16 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:34:16 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:34:16 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:34:16 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:34:16 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:34:16 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:34:16 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:34:16 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 18:34:16 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 18:34:16 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 18:34:16 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 18:35:15 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:35:15 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:35:15 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:35:15 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:35:15 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:35:15 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:35:15 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:35:15 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:35:15 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 18:35:15 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 18:35:15 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 18:35:15 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 18:36:35 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:36:35 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:36:35 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:36:35 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:36:35 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:36:35 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:36:35 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:36:35 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:36:35 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 18:36:35 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 18:36:35 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 18:36:35 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 18:39:39 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:39:39 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:39:39 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:39:39 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:39:39 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:39:39 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:39:39 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:39:39 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:39:39 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 18:39:39 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 18:39:39 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 18:39:39 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 18:41:09 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:41:09 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 18:41:09 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:41:09 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 18:41:09 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:41:09 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 18:41:09 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:41:09 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 18:41:09 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 18:41:09 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 18:41:09 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 18:41:09 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 18:44:07 Asia/Dhaka] PHP Notice:  Undefined index: shopkeeper_id in /home/towfiqchowdhury/public_html/manager/add_product.php on line 75
+[13-Mar-2017 18:44:07 Asia/Dhaka] PHP Notice:  Undefined index: image_description in /home/towfiqchowdhury/public_html/manager/add_product.php on line 76
+[13-Mar-2017 18:44:07 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 78
+[13-Mar-2017 18:44:07 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 79
+[13-Mar-2017 18:44:07 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 80
+[13-Mar-2017 18:44:07 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 81
+[13-Mar-2017 19:13:30 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 19:13:30 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 19:13:30 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 19:13:30 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 19:13:30 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 19:13:30 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 19:13:30 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 19:13:30 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 19:13:30 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 19:13:30 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 19:13:30 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 19:13:30 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 19:13:43 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 19:13:43 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 19:13:43 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 19:13:43 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 19:13:43 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 19:13:43 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 19:13:43 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 19:13:43 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 19:13:43 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 19:13:43 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 19:13:43 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 19:13:43 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 19:14:26 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 19:14:26 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 19:14:26 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 19:14:26 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 19:14:26 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 19:14:26 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 19:14:26 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 19:14:26 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 19:14:26 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 19:14:26 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 19:14:26 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 19:14:26 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 19:51:13 Asia/Dhaka] PHP Notice:  Undefined index: shopkeeper_id in /home/towfiqchowdhury/public_html/manager/add_product.php on line 75
+[13-Mar-2017 19:51:13 Asia/Dhaka] PHP Notice:  Undefined index: image_description in /home/towfiqchowdhury/public_html/manager/add_product.php on line 76
+[13-Mar-2017 19:51:13 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 78
+[13-Mar-2017 19:51:13 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 79
+[13-Mar-2017 19:51:13 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 80
+[13-Mar-2017 19:51:13 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 81
+[13-Mar-2017 20:26:00 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 20:26:00 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 20:26:00 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 20:26:00 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 20:26:00 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 20:26:00 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 20:26:00 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 20:26:00 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 20:26:00 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 20:26:00 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 20:26:00 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 20:26:00 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 20:26:07 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 20:26:07 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 20:26:07 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 20:26:07 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 20:26:07 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 20:26:07 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 20:26:07 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 20:26:07 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 20:26:07 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 20:26:07 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 20:26:07 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 20:26:07 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 20:29:28 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 20:29:28 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 20:29:28 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 20:29:28 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 20:29:28 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 20:29:28 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 20:29:28 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 20:29:28 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 20:29:28 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 20:29:28 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 20:29:28 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 20:29:28 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 22:30:54 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 22:30:54 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 22:30:54 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 22:30:54 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 22:30:54 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 22:30:54 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 22:30:54 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 22:30:54 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 22:30:54 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 22:30:54 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 22:30:54 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 22:30:54 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 22:31:13 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 22:31:13 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 22:31:13 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 22:31:13 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 22:31:13 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 22:31:13 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 22:31:13 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 22:31:13 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 22:31:13 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 22:31:13 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 22:31:13 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 22:31:13 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 22:39:21 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 22:39:21 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 22:39:21 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 22:39:21 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 22:39:21 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 22:39:21 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 22:39:21 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 22:39:21 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 22:39:21 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 22:39:21 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 22:39:21 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 22:39:21 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 22:39:36 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 22:39:36 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 22:39:36 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 22:39:36 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 22:39:36 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 22:39:36 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 22:39:36 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 22:39:36 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 22:39:36 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 22:39:36 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 22:39:36 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 22:39:36 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 22:39:56 Asia/Dhaka] PHP Warning:  move_uploaded_file(../site_img/header_image/towfiqchowdhury.com_4023597168towfiq.jpg): failed to open stream: No such file or directory in /home/towfiqchowdhury/public_html/manager/controller/operation.inc.php on line 169
+[13-Mar-2017 22:39:56 Asia/Dhaka] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phptQKUdc' to '../site_img/header_image/towfiqchowdhury.com_4023597168towfiq.jpg' in /home/towfiqchowdhury/public_html/manager/controller/operation.inc.php on line 169
+[13-Mar-2017 22:40:04 Asia/Dhaka] PHP Warning:  move_uploaded_file(../site_img/header_image/towfiqchowdhury.com_0645813972towfiq.jpg): failed to open stream: No such file or directory in /home/towfiqchowdhury/public_html/manager/controller/operation.inc.php on line 169
+[13-Mar-2017 22:40:04 Asia/Dhaka] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpG3NWYz' to '../site_img/header_image/towfiqchowdhury.com_0645813972towfiq.jpg' in /home/towfiqchowdhury/public_html/manager/controller/operation.inc.php on line 169
+[13-Mar-2017 23:35:16 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 23:35:16 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 23:35:16 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 23:35:16 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 23:35:16 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 23:35:16 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 23:35:16 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 23:35:16 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 23:35:16 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 23:35:16 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 23:35:16 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 23:35:16 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 23:39:52 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 23:39:52 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 23:39:52 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 23:39:52 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 23:39:52 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 23:39:52 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 23:39:52 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 23:39:52 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 23:39:52 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 23:39:52 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 23:39:52 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 23:39:52 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 23:40:14 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 23:40:14 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 23:40:14 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 23:40:14 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 23:40:14 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 23:40:14 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 23:40:14 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 23:40:14 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 23:40:14 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 23:40:14 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 23:40:14 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 23:40:14 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 23:40:32 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 23:40:32 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 23:40:32 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 23:40:32 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 23:40:32 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 23:40:32 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 23:40:32 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 23:40:32 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 23:40:32 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 23:40:32 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 23:40:32 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 23:40:32 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 23:40:36 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 23:40:36 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 23:40:36 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 23:40:36 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 23:40:36 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 23:40:36 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 23:40:36 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 23:40:36 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 23:40:36 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 23:40:36 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 23:40:36 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 23:40:36 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[13-Mar-2017 23:41:49 Asia/Dhaka] PHP Warning:  move_uploaded_file(../site_img/header_image/towfiqchowdhury.com_0235489716Towfiq Chowdhury.jpg): failed to open stream: No such file or directory in /home/towfiqchowdhury/public_html/manager/controller/operation.inc.php on line 169
+[13-Mar-2017 23:41:49 Asia/Dhaka] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpqRLuL6' to '../site_img/header_image/towfiqchowdhury.com_0235489716Towfiq Chowdhury.jpg' in /home/towfiqchowdhury/public_html/manager/controller/operation.inc.php on line 169
+[13-Mar-2017 23:42:28 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 23:42:28 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[13-Mar-2017 23:42:28 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 23:42:28 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[13-Mar-2017 23:42:28 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 23:42:28 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[13-Mar-2017 23:42:28 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 23:42:28 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[13-Mar-2017 23:42:28 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[13-Mar-2017 23:42:28 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[13-Mar-2017 23:42:28 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[13-Mar-2017 23:42:28 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[15-Mar-2017 11:19:29 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:19:29 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:19:29 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:19:29 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:19:29 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:19:29 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:19:29 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:19:29 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:19:29 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[15-Mar-2017 11:19:29 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[15-Mar-2017 11:19:29 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[15-Mar-2017 11:19:29 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[15-Mar-2017 11:19:58 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:19:58 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:19:58 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:19:58 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:19:58 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:19:58 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:19:58 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:19:58 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:19:58 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[15-Mar-2017 11:19:58 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[15-Mar-2017 11:19:58 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[15-Mar-2017 11:19:58 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[15-Mar-2017 11:30:46 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:30:46 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:30:46 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:30:46 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:30:46 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:30:46 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:30:46 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:30:46 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:30:46 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[15-Mar-2017 11:30:46 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[15-Mar-2017 11:30:46 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[15-Mar-2017 11:30:46 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[15-Mar-2017 11:31:07 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:31:07 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:31:07 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:31:07 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:31:07 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:31:07 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:31:07 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:31:07 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:31:07 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[15-Mar-2017 11:31:07 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[15-Mar-2017 11:31:07 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[15-Mar-2017 11:31:07 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[15-Mar-2017 11:32:22 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:32:22 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:32:22 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:32:22 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:32:22 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:32:22 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:32:22 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:32:22 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:32:22 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[15-Mar-2017 11:32:22 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[15-Mar-2017 11:32:22 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[15-Mar-2017 11:32:22 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[15-Mar-2017 11:33:24 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:33:24 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:33:24 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:33:24 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:33:24 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:33:24 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:33:24 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:33:24 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:33:24 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[15-Mar-2017 11:33:24 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[15-Mar-2017 11:33:24 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[15-Mar-2017 11:33:24 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[15-Mar-2017 11:47:01 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:47:01 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:47:01 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:47:01 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:47:01 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:47:01 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:47:01 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:47:01 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:47:01 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[15-Mar-2017 11:47:01 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[15-Mar-2017 11:47:01 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[15-Mar-2017 11:47:01 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[15-Mar-2017 11:47:45 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:47:45 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:47:45 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:47:45 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:47:45 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:47:45 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:47:45 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:47:45 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:47:45 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[15-Mar-2017 11:47:45 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[15-Mar-2017 11:47:45 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[15-Mar-2017 11:47:45 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[15-Mar-2017 11:48:25 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:48:25 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:48:25 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:48:25 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:48:25 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:48:25 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:48:25 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:48:25 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:48:25 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[15-Mar-2017 11:48:25 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[15-Mar-2017 11:48:25 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[15-Mar-2017 11:48:25 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[15-Mar-2017 11:49:00 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:49:00 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:49:00 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:49:00 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:49:00 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:49:00 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:49:00 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:49:00 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:49:00 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[15-Mar-2017 11:49:00 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[15-Mar-2017 11:49:00 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[15-Mar-2017 11:49:00 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[15-Mar-2017 11:49:21 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:49:21 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:49:21 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:49:21 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:49:21 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:49:21 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:49:21 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:49:21 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:49:21 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[15-Mar-2017 11:49:21 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[15-Mar-2017 11:49:21 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[15-Mar-2017 11:49:21 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[15-Mar-2017 11:50:08 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:50:08 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:50:08 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:50:08 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:50:08 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:50:08 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:50:08 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:50:08 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:50:08 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[15-Mar-2017 11:50:08 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[15-Mar-2017 11:50:08 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[15-Mar-2017 11:50:08 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[15-Mar-2017 11:50:28 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:50:28 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:50:28 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:50:28 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:50:28 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:50:28 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:50:28 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:50:28 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:50:28 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[15-Mar-2017 11:50:28 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[15-Mar-2017 11:50:28 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[15-Mar-2017 11:50:28 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[15-Mar-2017 11:51:43 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:51:43 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:51:43 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:51:43 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:51:43 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:51:43 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:51:43 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:51:43 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:51:43 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[15-Mar-2017 11:51:43 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[15-Mar-2017 11:51:43 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[15-Mar-2017 11:51:43 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[15-Mar-2017 11:53:03 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:53:03 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:53:03 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:53:03 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:53:03 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:53:03 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:53:03 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:53:03 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:53:03 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[15-Mar-2017 11:53:03 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[15-Mar-2017 11:53:03 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[15-Mar-2017 11:53:03 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[15-Mar-2017 11:53:35 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:53:35 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[15-Mar-2017 11:53:35 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:53:35 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[15-Mar-2017 11:53:35 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:53:35 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[15-Mar-2017 11:53:35 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:53:35 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[15-Mar-2017 11:53:35 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[15-Mar-2017 11:53:35 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[15-Mar-2017 11:53:35 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[15-Mar-2017 11:53:35 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[20-Mar-2017 22:51:52 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[20-Mar-2017 22:51:52 Asia/Dhaka] PHP Notice:  Undefined variable: division in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 83
+[20-Mar-2017 22:51:52 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[20-Mar-2017 22:51:52 Asia/Dhaka] PHP Notice:  Undefined variable: district in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 97
+[20-Mar-2017 22:51:52 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[20-Mar-2017 22:51:52 Asia/Dhaka] PHP Notice:  Undefined variable: category in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 108
+[20-Mar-2017 22:51:52 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[20-Mar-2017 22:51:52 Asia/Dhaka] PHP Notice:  Undefined variable: subcategory in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 122
+[20-Mar-2017 22:51:52 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 152
+[20-Mar-2017 22:51:52 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 159
+[20-Mar-2017 22:51:52 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 166
+[20-Mar-2017 22:51:52 Asia/Dhaka] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/towfiqchowdhury/public_html/manager/updateShop.php on line 180
+[20-Mar-2017 22:55:25 Asia/Dhaka] PHP Notice:  Undefined index: shopkeeper_id in /home/towfiqchowdhury/public_html/manager/add_product.php on line 75
+[20-Mar-2017 22:55:25 Asia/Dhaka] PHP Notice:  Undefined index: image_description in /home/towfiqchowdhury/public_html/manager/add_product.php on line 76
+[20-Mar-2017 22:55:25 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 78
+[20-Mar-2017 22:55:25 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 79
+[20-Mar-2017 22:55:25 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 80
+[20-Mar-2017 22:55:25 Asia/Dhaka] PHP Notice:  Undefined index: file in /home/towfiqchowdhury/public_html/manager/add_product.php on line 81
